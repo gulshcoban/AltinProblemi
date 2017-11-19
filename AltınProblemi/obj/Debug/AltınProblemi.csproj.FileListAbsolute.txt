@@ -1,0 +1,18 @@
+C:\Users\Hüseyin\Desktop\AltınProblemi\AltınProblemi\bin\Debug\AltınProblemi.exe.config
+C:\Users\Hüseyin\Desktop\AltınProblemi\AltınProblemi\bin\Debug\AltınProblemi.exe
+C:\Users\Hüseyin\Desktop\AltınProblemi\AltınProblemi\bin\Debug\AltınProblemi.pdb
+C:\Users\Hüseyin\Desktop\AltınProblemi\AltınProblemi\obj\Debug\AltınProblemi.csprojResolveAssemblyReference.cache
+C:\Users\Hüseyin\Desktop\AltınProblemi\AltınProblemi\obj\Debug\AltınProblemi.frmAltinProblemi.resources
+C:\Users\Hüseyin\Desktop\AltınProblemi\AltınProblemi\obj\Debug\AltınProblemi.Properties.Resources.resources
+C:\Users\Hüseyin\Desktop\AltınProblemi\AltınProblemi\obj\Debug\AltınProblemi.csproj.GenerateResource.Cache
+C:\Users\Hüseyin\Desktop\AltınProblemi\AltınProblemi\obj\Debug\AltınProblemi.exe
+C:\Users\Hüseyin\Desktop\AltınProblemi\AltınProblemi\obj\Debug\AltınProblemi.pdb
+C:\Users\Hüseyin\Desktop\CBU SOFTWARE ENGİNEERİNG - 3.CLASS\Software Testing\PROJELER\AltınProblemi(Ödev 2)\AltınProblemi\AltınProblemi\bin\Debug\AltınProblemi.exe.config
+C:\Users\Hüseyin\Desktop\CBU SOFTWARE ENGİNEERİNG - 3.CLASS\Software Testing\PROJELER\AltınProblemi(Ödev 2)\AltınProblemi\AltınProblemi\obj\Debug\AltınProblemi.exe
+C:\Users\Hüseyin\Desktop\CBU SOFTWARE ENGİNEERİNG - 3.CLASS\Software Testing\PROJELER\AltınProblemi(Ödev 2)\AltınProblemi\AltınProblemi\obj\Debug\AltınProblemi.pdb
+C:\Users\Hüseyin\Desktop\CBU SOFTWARE ENGİNEERİNG - 3.CLASS\Software Testing\PROJELER\AltınProblemi(Ödev 2)\AltınProblemi\AltınProblemi\bin\Debug\AltınProblemi.exe
+C:\Users\Hüseyin\Desktop\CBU SOFTWARE ENGİNEERİNG - 3.CLASS\Software Testing\PROJELER\AltınProblemi(Ödev 2)\AltınProblemi\AltınProblemi\bin\Debug\AltınProblemi.pdb
+C:\Users\Hüseyin\Desktop\CBU SOFTWARE ENGİNEERİNG - 3.CLASS\Software Testing\PROJELER\AltınProblemi(Ödev 2)\AltınProblemi\AltınProblemi\obj\Debug\AltınProblemi.csprojResolveAssemblyReference.cache
+C:\Users\Hüseyin\Desktop\CBU SOFTWARE ENGİNEERİNG - 3.CLASS\Software Testing\PROJELER\AltınProblemi(Ödev 2)\AltınProblemi\AltınProblemi\obj\Debug\AltınProblemi.frmAltinProblemi.resources
+C:\Users\Hüseyin\Desktop\CBU SOFTWARE ENGİNEERİNG - 3.CLASS\Software Testing\PROJELER\AltınProblemi(Ödev 2)\AltınProblemi\AltınProblemi\obj\Debug\AltınProblemi.Properties.Resources.resources
+C:\Users\Hüseyin\Desktop\CBU SOFTWARE ENGİNEERİNG - 3.CLASS\Software Testing\PROJELER\AltınProblemi(Ödev 2)\AltınProblemi\AltınProblemi\obj\Debug\AltınProblemi.csproj.GenerateResource.Cache
